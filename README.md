@@ -11,7 +11,8 @@ What I'm working on 👨‍💻
 I am currently working on ERP that covers half a million users, 
 In his spare time developing an E Commerce.
 
-Find me elsewhere 🌎
+Find me elsewhere 🌎<br>
+
 🚀 Site<br>
 🐦 Twitter<br>
 📸 Instagram<br>
