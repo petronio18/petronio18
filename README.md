@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey, I'm Petrônio Neves Moreira! 👋
 
-<!--
-**petronio18/petronio18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend developer @Quasar
 
-Here are some ideas to get you started:
+🇧🇷 Born in Curvelo,Minas Gerais, Brazil
+🇳🇱 Living in Belo Horizonte, Minas Gerais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on 👨‍💻
+
+
+I am currently working on ERP that covers half a million users, 
+In his spare time developing an E Commerce.
+
+Find me elsewhere 🌎
+🚀 Site
+🐦 Twitter
+📸 Instagram
+💼 LinkedIn
