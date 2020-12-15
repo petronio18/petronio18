@@ -12,7 +12,7 @@ I am currently working on ERP that covers half a million users,
 In his spare time developing an E Commerce.
 
 Find me elsewhere 🌎
-🚀 Site
-🐦 Twitter
-📸 Instagram
-💼 https://www.linkedin.com/in/petr%C3%B4nio-neves-moreira-a618aa98/
+🚀 Site<br>
+🐦 Twitter<br>
+📸 Instagram<br>
+💼 linkedln
