@@ -15,4 +15,4 @@ Find me elsewhere 🌎
 🚀 Site
 🐦 Twitter
 📸 Instagram
-💼 LinkedIn
+💼 https://www.linkedin.com/in/petr%C3%B4nio-neves-moreira-a618aa98/
