@@ -12,5 +12,5 @@ Find me elsewhere 🌎<br>
 🚀 Site<br>
 🐦 Twitter<br>
 📸 <a href="petronio.moreira">Instagram</a><br>
-💼 <a href=”https://www.linkedin.com/in/petroniomoreira/”>linkedln</a>
+💼 <a href="https://www.linkedin.com/in/petroniomoreira/">linkedln</a>
 
